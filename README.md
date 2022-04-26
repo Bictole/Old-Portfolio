@@ -1,3 +1,8 @@
+# My [OLD] Portfolio !
+
+You can find the new one here : https://www.victorsimonin.fr/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
