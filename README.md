@@ -3,18 +3,18 @@
 [title-img]:https://img.shields.io/badge/-Bictole-pink
 [profile]:https://github.com/bictole
 
-This is the repository for my portfolio. The goal was to have fun with **web development** and to expose some of my skills and projects. It is made only with **React** !
+This is the repository for my portfolio. The goal was to have fun with **web development** and to expose some of my skills and projects. It is made only with **Javascript**, **CSS** and **HTML** !
 
 The website is not available online, but you cand find my new portfolio on the following URL : [victorsimonin.fr](victorsimonin.fr)
 
-## Home Page
+## Header
 
 
-<img src="https://github.com/Bictole/Portfolio/blob/master/readme_images/home.png" alt="Home">
+<img src="https://github.com/Bictole/Old-Portfolio/blob/master/readme_images/home.png" alt="Home">
 
-The home page is main point of the routing, we can find a picture of me and all the links to the other pages.
+The website is a one-page static website, composed of different part that show different kind of informations.
 
-We have the following pages :
+We have the following parts :
 
 * **Blog page** which is under development for now, it may contains my curriculum. 
 * **Skills page** that contains a short description of my main skills and what i like in computer science.
