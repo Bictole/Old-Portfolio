@@ -19,7 +19,9 @@ We have the following parts :
 * **Header** with a picture of me, and two buttons to download my CV and contact me !
 * **About Me** that contains more informations about my experience, my studies and my projects.
 * **My Experience**, a short description of the programming language, frameworks or tools that i know.
-* **Work Page**, this part contains some of my most important project and the work i am on currently.
+* **What I Did**, this part contains my different experiences, as a research student in the LRDE at EPITA, or as a YAKA and in the artificial intelligence speciality.
+* **Portfolio**, which is supposed to expose all of my best projects, here only [ODYH](https://github.com/Bictole/ODYH).
+* **Testimonials** and **Contact Me** to show some review of my collaborators and to get in touch with me !
 
 
 ## Social Part
