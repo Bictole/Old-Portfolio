@@ -7,7 +7,7 @@ This is the repository for my portfolio. The goal was to have fun with **web dev
 
 The website is not available online, but you cand find my new portfolio on the following URL : [victorsimonin.fr](victorsimonin.fr)
 
-## Header
+## The Website
 
 
 <img src="https://github.com/Bictole/Old-Portfolio/blob/master/readme_images/home.png" alt="Home">
@@ -16,9 +16,9 @@ The website is a one-page static website, composed of different part that show d
 
 We have the following parts :
 
-* **Blog page** which is under development for now, it may contains my curriculum. 
-* **Skills page** that contains a short description of my main skills and what i like in computer science.
-* **About page**, a short text that sum up who i am, where i am studying now and my center of interest. 
+* **Header** with a picture of me, and two buttons to download my CV and contact me !
+* **About Me** that contains more informations about my experience, my studies and my projects.
+* **My Experience**, a short description of the programming language, frameworks or tools that i know.
 * **Work Page**, this part contains some of my most important project and the work i am on currently.
 
 
