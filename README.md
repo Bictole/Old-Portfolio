@@ -26,14 +26,14 @@ We have the following parts :
 
 ## Social Part
 
-<img src="https://github.com/Bictole/Portfolio/blob/master/readme_images/social.png" align="right" alt="Social_part">
+<img src="https://github.com/Bictole/Old-Portfolio/blob/master/readme_images/social.png" align="right" alt="Social_part">
 
-The portfolio contains a fix **social part** which contains the three most important links about me.
+The portfolio contains a **social part** which contains three links about me.
 
-You can find my :
-* [Github account](https://github.com/Bictole)
-* [Linkedin](https://www.linkedin.com/in/victor-simonin/)
-* [Kaggle account](https://www.kaggle.com/victorsimonin)
+You can find :
+* [My Linkedin](https://www.linkedin.com/in/victor-simonin/)
+* [My Github account](https://github.com/Bictole)
+* [GottaGoHack Website](https://www.gottagohack.fr/)
 
 
 ## Usage
